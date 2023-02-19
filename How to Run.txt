@@ -1,0 +1,6 @@
+to Run it do the following:
+- Open it in Spring Tools Suite. => It is Dynamic Web Application. 
+- When you run it, you should run it like Run Server -> (Choose Tomcat Server) -> Run your app. 
+- If error happen, it may be because of java version. to update that, do the following: 
+	+ Right click on Project -> Java Build Path
+        + Right click on Project -> Properties -> Project Facets -> Update Java Version

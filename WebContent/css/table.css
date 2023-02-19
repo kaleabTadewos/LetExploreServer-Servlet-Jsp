@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+table, td, th, thead, tbody {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td, thead, tbody {
+  padding: 15px;
+}
+
+table img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+}
