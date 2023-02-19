@@ -30,9 +30,6 @@ public class DataAccessFacade implements DataAccess {
 
 	public static final String OUTPUT_DIR = "C:\\Users\\tadew\\OneDrive\\Desktop\\WORKSPACE\\Downloads\\WAP Final Project - Kaleab Tadewos 610709(1)\\WAP Final Project - Kaleab Tadewos 610709\\LetExploreProject\\LetExploreProject\\src\\edu\\miu\\cs\\cs472\\letexplore\\dataaccess\\storage";
     
-	//	public static final String OUTPUT_DIR = Path  "../src/edu/miu/cs/cs472/letexplore/dataaccess/storage";
-//	public static final String OUTPUT_DIR = System.getProperty("user.dir") + "\\LetExploreProject\\src\\edu\\miu\\cs\\cs472\\letexplore\\dataaccess\\storage";
-	//public static final String OUTPUT_DIR = System.getProperty("user.dir") + "\\src\\edu\\miu\\cs\\cs472\\letexplore\\dataaccess\\storage";
 	public static final String DATE_PATTERN = "MM/dd/yyyy";
 	
 	
